@@ -1,0 +1,3 @@
+[submodule "coursera-fullstack"]
+	path = coursera-fullstack
+	url = https://github.com/jhu-ep-coursera/fullstack-course4.git
